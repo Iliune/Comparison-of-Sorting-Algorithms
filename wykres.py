@@ -6,7 +6,7 @@ labels = ['metoda sort()', 'Merge Sort', 'sortowanie bąbelkowe', 'sortowanie po
 
 plt.bar(labels, times)
 
-plt.title('Execution Times of Two Programs')
+plt.title('Execution Times')
 
 plt.ylabel('Time (seconds)')
 
